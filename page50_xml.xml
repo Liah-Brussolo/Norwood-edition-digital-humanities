@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author></titleStmt>
+         <seriesStmt><title>DH Summerschool - Antwerp 2025</title></seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author><respStmt><resp>Writer</resp><name>Arthur Conan Doyle</name></respStmt><idno type="Transkribus">2892283</idno><note>Henry W. and Albert A. Berg Collection of English and American Literature, The New York Public Library. (1881 - 1910). Return of Sherlock Holmes, The: No. 2. The adventure of the Norwood builder. Holograph Retrieved from https://digitalcollections.nypl.org/items/95a54c30-732a-0136-b6bf-4dfacf2ed6b1</note></bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5276" lry="7115" xml:id="facs_50">
+         <graphic url="0050_050_23v.jpeg" width="5276px" height="7115px"/>
+         <zone points="77,383 5019,383 5019,6681 77,6681" rendition="TextRegion" xml:id="facs_50_tr_1">
+            <zone points="4461,249 4728,249 4728,535 4461,535" rendition="Line" xml:id="facs_50_tr_1_tl_1"/>
+            <zone points="53,921 4829,921 4829,1402 53,1402" rendition="Line" xml:id="facs_50_tr_1_tl_2"/>
+            <zone points="48,1325 2406,1325 2406,1699 48,1699" rendition="Line" xml:id="facs_50_tr_1_tl_3"/>
+            <zone points="511,1562 3873,1562 3873,1978 511,1978" rendition="Line" xml:id="facs_50_tr_1_tl_4"/>
+            <zone points="523,1883 4984,1883 4984,2251 523,2251" rendition="Line" xml:id="facs_50_tr_1_tl_5"/>
+            <zone points="71,2091 4788,2091 4788,2614 71,2614" rendition="Line" xml:id="facs_50_tr_1_tl_6"/>
+            <zone points="83,2441 4746,2441 4746,2869 83,2869" rendition="Line" xml:id="facs_50_tr_1_tl_7"/>
+            <zone points="48,2756 4788,2756 4788,3166 48,3166" rendition="Line" xml:id="facs_50_tr_1_tl_8"/>
+            <zone points="48,3041 4716,3041 4716,3457 48,3457" rendition="Line" xml:id="facs_50_tr_1_tl_9"/>
+            <zone points="48,3457 1491,3457 1491,3796 48,3796" rendition="Line" xml:id="facs_50_tr_1_tl_10"/>
+            <zone points="1016,3629 4609,3629 4609,4015 1016,4015" rendition="Line" xml:id="facs_50_tr_1_tl_11"/>
+            <zone points="59,3944 4800,3944 4800,4413 59,4413" rendition="Line" xml:id="facs_50_tr_1_tl_12"/>
+            <zone points="42,4271 3326,4271 3326,4651 42,4651" rendition="Line" xml:id="facs_50_tr_1_tl_13"/>
+            <zone points="998,4514 4978,4514 4978,4924 998,4924" rendition="Line" xml:id="facs_50_tr_1_tl_14"/>
+            <zone points="143,4782 4621,4782 4621,5257 143,5257" rendition="Line" xml:id="facs_50_tr_1_tl_15"/>
+            <zone points="131,5233 1016,5233 1016,5512 131,5512" rendition="Line" xml:id="facs_50_tr_1_tl_16"/>
+            <zone points="1087,5447 3065,5447 3065,5833 1087,5833" rendition="Line" xml:id="facs_50_tr_1_tl_17"/>
+            <zone points="998,5702 5007,5702 5007,6130 998,6130" rendition="Line" xml:id="facs_50_tr_1_tl_18"/>
+            <zone points="238,5999 4847,5999 4847,6415 238,6415" rendition="Line" xml:id="facs_50_tr_1_tl_19"/>
+            <zone points="238,6302 4990,6302 4990,6754 238,6754" rendition="Line" xml:id="facs_50_tr_1_tl_20"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_50" n="50" xml:id="img_0050"/>
+          <add type="nt">  <ab facs="#facs_50_tr_1" type="">
+               <l facs="#facs_50_tr_1_tl_1" n="N001">22</l>
+               <l facs="#facs_50_tr_1_tl_2" n="N002">eason for removing them, since he was heir at law and would</l>
+               <l facs="#facs_50_tr_1_tl_3" n="N003">come into <del type="pre-context">I</del> them in any case"</l>
+               <l facs="#facs_50_tr_1_tl_4" n="N004" rend="indent">My friend seemed struck by this remark.</l>
+               <l facs="#facs_50_tr_1_tl_5" n="N005" rend="indent">"I don't mean to deny that the evidence is in some ways</l>
+               <l facs="#facs_50_tr_1_tl_6" n="N006">ery strongly in favour of your theory " said he" I only wish</l>
+               <l facs="#facs_50_tr_1_tl_7" n="N007">o point out that these are other theones possible. As you say</l>
+               <l facs="#facs_50_tr_1_tl_8" n="N008">he future will decide. Good morning! I daresay that in the</l>
+               <l facs="#facs_50_tr_1_tl_9" n="N009">couse of the day I shall drop in at Norood and see how</l>
+               <l facs="#facs_50_tr_1_tl_10" n="N010">you are getting on"</l>
+               <l facs="#facs_50_tr_1_tl_11" n="N011" rend="indent">When the detective departed my friend rose and</l>
+               <l facs="#facs_50_tr_1_tl_12" n="N012">made his preparations for the days work with the alert air of a</l>
+               <l facs="#facs_50_tr_1_tl_13" n="N013">man who has a congenial tash before him.</l>
+               <l facs="#facs_50_tr_1_tl_14" n="N014" rend="indent">"My first movement, <rs type="person" key="Watson, ">Watson</rs>" said he, as he bustled</l>
+               <l facs="#facs_50_tr_1_tl_15" n="N015">into his frock coat, "must, as I said, be in the direction of</l>
+               <l facs="#facs_50_tr_1_tl_16" n="N016">Blackheath"</l>
+               <l facs="#facs_50_tr_1_tl_17" n="N017" rend="indent">"And why not <rs type="place" key="Norwood">Norwood</rs>?"</l>
+               <l facs="#facs_50_tr_1_tl_18" n="N018" rend="indent">"Because we have in this case one singular incident</l>
+               <l facs="#facs_50_tr_1_tl_19" n="N019">coming close at the heels of another singular incident. The</l>
+               <l facs="#facs_50_tr_1_tl_20" n="N020">police are making the mistake of concentrating their attention</l>
+            </ab></add>
+      </div>
+      </body>
+   </text>
+</TEI>
