@@ -1,4 +1,5 @@
-body {
+body{
+  font-family: 'Times New Roman', Times, serif;
 
 }
 .starter-template {
@@ -30,5 +31,17 @@ p {
 
 .del {
   text-decoration: line-through;
+}
+
+.h2page{
+  font-style: italic;
+  color: rgb(51, 51, 156);
+}
+
+.doyleimage{
+  inline-size: 30%;
+  align-items: center;
+  margin-left: 50px;
+ 
 }
 
