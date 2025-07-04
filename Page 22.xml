@@ -10,7 +10,7 @@
       <profileDesc>
          <langUsage>
             <language ident="en">English</language>
-         </langUsage>
+         </langUsage>   
       </profileDesc>
    </teiHeader>
    <facsimile>
@@ -43,26 +43,45 @@
    <text>
       <body><div><pb facs="#facs_50" n="50" xml:id="img_0050"/>
           <add type="nt">  <ab facs="#facs_50_tr_1" type="">
-               <l facs="#facs_50_tr_1_tl_1" n="N001">22</l>
+               <!--><l facs="#facs_50_tr_1_tl_1" n="N001">22</l><!-->
+               
+               
                <l facs="#facs_50_tr_1_tl_2" n="N002">eason for removing them, since he was heir at law and would</l>
                <l facs="#facs_50_tr_1_tl_3" n="N003">come into <del type="pre-context">I</del> them in any case"</l>
+               <br/>
                <l facs="#facs_50_tr_1_tl_4" n="N004" rend="indent">My friend seemed struck by this remark.</l>
+               </p>
+
+               <p>
                <l facs="#facs_50_tr_1_tl_5" n="N005" rend="indent">"I don't mean to deny that the evidence is in some ways</l>
                <l facs="#facs_50_tr_1_tl_6" n="N006">ery strongly in favour of your theory " said he" I only wish</l>
                <l facs="#facs_50_tr_1_tl_7" n="N007">o point out that these are other theones possible. As you say</l>
                <l facs="#facs_50_tr_1_tl_8" n="N008">he future will decide. Good morning! I daresay that in the</l>
                <l facs="#facs_50_tr_1_tl_9" n="N009">couse of the day I shall drop in at Norood and see how</l>
                <l facs="#facs_50_tr_1_tl_10" n="N010">you are getting on"</l>
+               </p>
+
+               <p>
                <l facs="#facs_50_tr_1_tl_11" n="N011" rend="indent">When the detective departed my friend rose and</l>
                <l facs="#facs_50_tr_1_tl_12" n="N012">made his preparations for the days work with the alert air of a</l>
                <l facs="#facs_50_tr_1_tl_13" n="N013">man who has a congenial tash before him.</l>
+               </p>
+
+               <p>
                <l facs="#facs_50_tr_1_tl_14" n="N014" rend="indent">"My first movement, <rs type="person" key="Watson, ">Watson</rs>" said he, as he bustled</l>
                <l facs="#facs_50_tr_1_tl_15" n="N015">into his frock coat, "must, as I said, be in the direction of</l>
                <l facs="#facs_50_tr_1_tl_16" n="N016">Blackheath"</l>
+               </p>
+
+               <p>
                <l facs="#facs_50_tr_1_tl_17" n="N017" rend="indent">"And why not <rs type="place" key="Norwood">Norwood</rs>?"</l>
+               </p>
+               
+               <p>
                <l facs="#facs_50_tr_1_tl_18" n="N018" rend="indent">"Because we have in this case one singular incident</l>
                <l facs="#facs_50_tr_1_tl_19" n="N019">coming close at the heels of another singular incident. The</l>
                <l facs="#facs_50_tr_1_tl_20" n="N020">police are making the mistake of concentrating their attention</l>
+               </p>
             </ab></add>
       </div>
       </body>
