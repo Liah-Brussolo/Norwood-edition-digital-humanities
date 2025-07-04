@@ -4,7 +4,9 @@
          <titleStmt><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author></titleStmt>
          <seriesStmt><title>DH Summerschool - Antwerp 2025</title></seriesStmt>
          <sourceDesc>
-            <bibl><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author><respStmt><resp>Writer</resp><name>Arthur Conan Doyle</name></respStmt><idno type="Transkribus">2892283</idno><note>Henry W. and Albert A. Berg Collection of English and American Literature, The New York Public Library. (1881 - 1910). Return of Sherlock Holmes, The: No. 2. The adventure of the Norwood builder. Holograph Retrieved from https://digitalcollections.nypl.org/items/95a54c30-732a-0136-b6bf-4dfacf2ed6b1</note></bibl>
+            <bibl><title type="main">The adventure of the Norwood builder </title>
+            <author>Arthur Conan Doyle</author>
+            <respStmt><resp>Writer</resp><name>Arthur Conan Doyle</name></respStmt><idno type="Transkribus">2892283</idno><note>Henry W. and Albert A. Berg Collection of English and American Literature, The New York Public Library. (1881 - 1910). Return of Sherlock Holmes, The: No. 2. The adventure of the Norwood builder. Holograph Retrieved from https://digitalcollections.nypl.org/items/95a54c30-732a-0136-b6bf-4dfacf2ed6b1</note></bibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
@@ -45,10 +47,12 @@
           <add type="nt">  <ab facs="#facs_50_tr_1" type="">
                <!--><l facs="#facs_50_tr_1_tl_1" n="N001">22</l><!-->
                
-               
+               <p>
                <l facs="#facs_50_tr_1_tl_2" n="N002">eason for removing them, since he was heir at law and would</l>
                <l facs="#facs_50_tr_1_tl_3" n="N003">come into <del type="pre-context">I</del> them in any case"</l>
-               <br/>
+               </p>
+
+               <p>
                <l facs="#facs_50_tr_1_tl_4" n="N004" rend="indent">My friend seemed struck by this remark.</l>
                </p>
 

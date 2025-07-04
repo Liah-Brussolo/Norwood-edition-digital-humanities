@@ -20,10 +20,12 @@
                                 <li>Total number of modifications: 
                                     <xsl:value-of select="count(//tei:del|//tei:add)" /> <!-- Counts all the add and del elements, and puts it in a list item -->
                                 </li>
-                                <li>Number of additions: 
+                                <li>Number of additions:
+                                    <xsl:value-of select ="count(//tei:add)"/>
                                     <!-- count the additions only -->
                                 </li>
                                 <li>Number of deletions: 
+                                    <xsl:value-of select ="count(//tei:del)"/>
                                     <!-- count the deletions only -->
                                 </li>
                                 <!-- add other list items in which you count things, such as the supralinear additions only, or additions made with pencil -->

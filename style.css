@@ -31,6 +31,7 @@ p {
 
 .del {
   text-decoration: line-through;
+  color: red;
 }
 
 .h2page{
@@ -39,9 +40,9 @@ p {
 }
 
 .doyleimage{
-  inline-size: 30%;
-  align-items: center;
-  margin-left: 50px;
- 
+  inline-size: 40%;
+  margin-left: 200px;
 }
+
+
 
